@@ -1,0 +1,65 @@
+# *.iml
+# .gradle
+# /local.properties
+# /.idea/caches
+# /.idea/libraries
+# /.idea/modules.xml
+# /.idea/workspace.xml
+# /.idea/navEditor.xml
+# /.idea/assetWizardSettings.xml
+# .DS_Store
+# /build
+# /captures
+# .externalNativeBuild
+# .cxx
+# local.properties
+
+# Diretórios gerados automaticamente
+.gradle
+.idea/
+build/
+local/
+
+# Arquivos do Gradle
+*.iml
+.gradle/
+.gradle/*
+
+# Configuração local (não compartilhar)
+local.properties
+
+# Arquivos de build
+**/build/
+
+# Logs
+*.log
+
+# Arquivos temporários ou específicos do sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# Arquivos do IntelliJ/Android Studio
+.idea/
+*.ipr
+*.iws
+*.bak
+*.orig
+*.patch
+
+# Arquivos de cache
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de configuração do SO
+*.DS_Store
+*.directory
+
+# Outros backups ou arquivos desnecessários
+*.bak
+*.old
+*.backup

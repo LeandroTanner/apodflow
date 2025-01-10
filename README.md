@@ -124,23 +124,19 @@ O projeto possui a seguinte estrutura de arquivos:
 ## Telas
 
 ### Tela inicial
-
-![Tela Inicial](img/tela-inicial.jpg)
+<img src="img/tela-inicial.jpg" width="300">
 
 ### Tela de buscar data
-
-![Tela de busca por data](img/tela-data.jpg)
+<img src="img/tela-data.jpg" width="300">
 
 ### Tela de buscar período
-
-![Tela de busca por período](img/tela-periodo.jpg)
+<img src="img/tela-periodo.jpg" width="300">
 
 ### Tela de buscar por quantidade
 <img src="img/tela-quantidade.jpg" width="300">
 
 ### Tela de menu
-
-![Tela de Menu](img/tela-menu.jpg)
+<img src="img/tela-menu.jpg" width="300">
 
 
 ## Video

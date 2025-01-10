@@ -1,11 +1,13 @@
 
 # Apod Flow
-ApodFlow é um aplicativo Android que foi desenvolvido para fornecer funcionalidades de compartilhamento e download de imagens relacionadas à NASA's Astronomy Picture of the Day (APOD), ele foi desenvolvido por Leandro Arantes Tanner e Andrey de Assis em conjunto para um projeto da matéria de Dispositivos Móveis do curso de Análise e Desenvolvimento de Sistemas no IFSP - Hortolândia. O projeto consiste em exibir esses Apod's de forma semelhante com o tiktok e também fornecendo a opção de pesquisar esses Apod's por datas.
+ApodFlow é um aplicativo Android que foi desenvolvido para fornecer funcionalidades de compartilhamento e download de imagens relacionadas à NASA's Astronomy Picture of the Day (APOD), ele foi desenvolvido por Leandro Arantes Tanner e Andrey de Assis em conjunto para um projeto da matéria de Dispositivos Móveis do curso de Análise e Desenvolvimento de Sistemas no IFSP - Hortolândia. O projeto consiste em exibir esses Apod's de forma semelhante com o tiktok e também fornecendo a opção de pesquisar esses Apod's por datas. Para o desenvolvimento utilizamos:
+
+- Java
+- Android Studio
+- API's da Nasa (fornece imagens) e DeepL (traduz textos)
 
 
-
-
-## Requisitos 
+## Requisitos para rodar o app
 
 - Android Studio (última versão recomendada)
 
@@ -18,7 +20,7 @@ ApodFlow é um aplicativo Android que foi desenvolvido para fornecer funcionalid
 
 ## Passos para Rodar o Projeto 
 
-    1. Instalar o Android Studio
+1. Instalar o Android Studio
 
 - Baixe e instale o Android Studio, que é o ambiente de desenvolvimento oficial para criar aplicativos Android. 
 Siga os passos descritos no site oficial para o sistema operacional do seu computador:
@@ -27,7 +29,7 @@ Siga os passos descritos no site oficial para o sistema operacional do seu compu
 
 #
 
-    2. Criar um Novo Projeto no Android Studio
+2. Criar um Novo Projeto no Android Studio
 
 - Abra o Android Studio.
 
@@ -47,7 +49,7 @@ Siga os passos descritos no site oficial para o sistema operacional do seu compu
 
 #
 
-    3. Adicionar os Arquivos ao Projeto
+3. Adicionar os Arquivos ao Projeto
 
 - Copie todos os arquivos da pasta app/src/main/ do seu projeto anterior (onde você já tem o código pronto) para a mesma pasta no novo projeto.
 
@@ -55,7 +57,7 @@ Siga os passos descritos no site oficial para o sistema operacional do seu compu
 
 #
 
-    4. Verificar e Ajustar o Código
+4. Verificar e Ajustar o Código
 
 Verifique o código do seu projeto, principalmente os seguintes pontos:
 
@@ -65,7 +67,7 @@ Verifique o código do seu projeto, principalmente os seguintes pontos:
 
 #
 
-    5. Adicionar Dependências
+5. Adicionar Dependências
 
 Abra o arquivo build.gradle (Module: app) e adicione as dependências na seção dependencies:
 
@@ -89,7 +91,7 @@ Abra o arquivo build.gradle (Module: app) e adicione as dependências na seção
 
 Após adicionar as dependências, clique em "Sync Now" no topo da tela para baixar e integrar essas bibliotecas ao seu projeto.
 
-    6. Rodar o Projeto no Emulador ou Dispositivo Físico
+6. Rodar o Projeto no Emulador ou Dispositivo Físico
 
 - Via Emulador: No Android Studio, clique no ícone de Play (triângulo verde) e selecione o emulador.
 
@@ -121,22 +123,34 @@ O projeto possui a seguinte estrutura de arquivos:
 
 ## Telas
 
-- ![Tela Inicial](img/tela-inicial.jpg)
-- ![Tela de busca por data](img/tela-data.jpg)
-- ![Tela de busca por período](img/tela-periodo.jpg)
-- ![Tela de buscar por quantidade](img/tela-quantidade.jpg)
-- ![Tela de Menu](img/tela-menu.jpg)
+### Tela inicial
+
+![Tela Inicial](img/tela-inicial.jpg =200x)
+
+### Tela de buscar data
+
+![Tela de busca por data](img/tela-data.jpg =200x)
+
+### Tela de buscar período
+
+![Tela de busca por período](img/tela-periodo.jpg =200x)
+
+### Tela de buscar por quantidade 
+
+![Tela de buscar por quantidade](img/tela-quantidade.jpg =200x)
+
+### Tela de menu
+
+![Tela de Menu](img/tela-menu.jpg =200x)
+
 
 ## Video
-
-- ![Video](img/app_rodando.mp4)
 
 [Assista ao vídeo do funcionamento do app no YouTube](https://youtube.com/shorts/vudCM-TycYE?feature=share)
 
 
 
-    Atenção! O app apresenta lentidões em alguns momentos pois estamos trabalhando com duas Api's 
-    e em alguns momentos suas requisições levam tempo.
+Atenção! O app apresenta lentidões em alguns momentos pois estamos trabalhando com duas Api's e em alguns momentos suas requisições levam tempo.
 
 # Dúvidas e sugestões
 

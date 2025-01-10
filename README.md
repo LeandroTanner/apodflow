@@ -125,7 +125,7 @@ O projeto possui a seguinte estrutura de arquivos:
 
 ### Tela inicial
 
-![Tela Inicial](img/tela-inicial.jpg =300x200)
+![Tela Inicial](img/tela-inicial.jpg)
 
 ### Tela de buscar data
 
@@ -135,9 +135,8 @@ O projeto possui a seguinte estrutura de arquivos:
 
 ![Tela de busca por período](img/tela-periodo.jpg)
 
-### Tela de buscar por quantidade 
-
-![Tela de buscar por quantidade][(img/tela-quantidade.jpg =200x)]
+### Tela de buscar por quantidade
+<img src="img/tela-quantidade.jpg" width="300">
 
 ### Tela de menu
 

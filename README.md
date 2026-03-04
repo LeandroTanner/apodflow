@@ -151,7 +151,7 @@ Atenção! O app apresenta lentidões em alguns momentos pois estamos trabalhand
 
     Para qualquer dúvida sobre o projeto ou sugestão, me contate pelos links abaixo:
 
-[![Portifólio](https://img.shields.io/badge/Portifólio-1DA1F2?style=for-the-badge)](https://ltdev.site/)
+[![Portifólio](https://img.shields.io/badge/Portifólio-1DA1F2?style=for-the-badge)](https://ltanner.dev)
 
 [![Email](https://img.shields.io/badge/EMAIL-1DA1F2?style=for-the-badge)](https://rebrand.ly/lt_email)
 
